@@ -1,8 +1,8 @@
-SQL Project: Music Store Analysis
+# SQL Project: Music Store Analysis
 
 This project demonstrates how to analyze an online music store database using SQL, specifically using Snowflake SQL. The aim is to help the store understand its business performance by answering key business questions through SQL queries. This project is beginner-friendly and offers a practical approach to learning relational databases and performing data analysis using Snowflake SQL.
 
-Overview
+## Overview
 In this project, you will be analyzing a music playlist database that contains information about customers, invoices, tracks, albums, artists, and genres. Using SQL, you will derive insights that help the business understand customer behavior, track popularity, sales patterns, and other key metrics that support decision-making.
 
 Database and Tools
