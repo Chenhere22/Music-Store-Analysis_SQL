@@ -27,12 +27,12 @@ Genre: The categorization of tracks into different genres.
 3. To derive insights on business performance, customer preferences, sales trends, and popular genres.
 4. Key Business Questions
 
-  4.1 Top Customers by Country: Identify the top customers based on their total spending in each country.
-  4.2 Most Popular Genres by Country: Determine the most popular music genre in each country based on the number of purchases.
-  4.3 Total Sales by Country: Calculate the total sales per country to analyze which regions generate the most revenue.
-  4.4 Best-Selling Artists: Identify the artists with the highest number of tracks sold.
-  4.5 Top-Selling Tracks: Find the tracks that generate the highest revenue.
-  4.6 Customer Retention Patterns: Analyze purchase patterns to assess how many customers make repeat purchases.
+  (1)Top Customers by Country: Identify the top customers based on their total spending in each country.
+  (2) Most Popular Genres by Country: Determine the most popular music genre in each country based on the number of purchases.
+  (3) Total Sales by Country: Calculate the total sales per country to analyze which regions generate the most revenue.
+  (4) Best-Selling Artists: Identify the artists with the highest number of tracks sold.
+  (5) Top-Selling Tracks: Find the tracks that generate the highest revenue.
+  (6) Customer Retention Patterns: Analyze purchase patterns to assess how many customers make repeat purchases.
 
 ## Tools Used
 Snowflake SQL: A cloud-based data platform that allows for easy and scalable querying.
@@ -52,4 +52,4 @@ By the end of this project, you will have learned how to:
 4. Understand key business metrics such as customer retention, sales trends, and product popularity.
 
 ## Acknowledge
-I appreciate the data
+I appreciate Rishabh Mishra(https://github.com/rishabhnmishra) who provided the data.
